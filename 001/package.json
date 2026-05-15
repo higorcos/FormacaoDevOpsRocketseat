@@ -1,0 +1,12 @@
+{
+  "name": "infra_curso",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "higorCosta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
